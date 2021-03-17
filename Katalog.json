@@ -1,0 +1,214 @@
+{
+	"RPG":[
+	
+	{
+		"id":"A001",
+		"kategori":"Role-playing game",
+		"nama":"The Witcher 2: Assassins of King",
+		"deskripsi":"The Witcher 2: Assassins of King merupakan sekuel dari The Witcher. Dalam permainan ini kamu akan mengendalikan seorang witcher yang bernama Geralt. Witcher di sini bukan penyihir, melainkan seseorang yang kemampuannya ditingkatkan secara genetik dan dilatih menggunakan kekuatan khusus untuk memburu monster.",
+		"ukuran":"16 GB",
+		"harga":135000,
+		"stok":10
+		
+	},
+	{
+		"id":"A002",
+		"kategori":"Role-playing game",
+		"nama":"Dragon Age: Origins",
+		"deskripsi":"Dalam permainan ini, kamu akan mengendalikan karakter yang dikenal sebagai “The Warden”. Seperti game RPG pada umumnya, di awal permainan kamu diharuskan membuat karakter. Kamu bisa memilih jenis kelamin, ras, dan latar belakang karakter. Latar belakang karakter yang kamu pilih dapat mempengaruhi jalan cerita. Tetapi seperti apapun karakter yang kamu buat, pada akhirnya mereka akan bergabung dengan Grey Warden yang disiapkan untuk melawan Darkspawn.",
+		"ukuran":"20 GB",
+		"harga":145000,
+		"stok":5
+		
+	},
+	{
+		"id":"A003",
+		"kategori":"Role-playing game",
+		"nama":"Diablo III",
+		"deskripsi":"Permainan ini berlatar 20 tahun setelah kejadian di Diablo II. Di awal permainan diceritakan bahwa Deckard Cain dan keponakannya, Leah sedang berada di Tristram Cathedral untuk menyelidiki teks kuno yang berisi ramalan akan hal buruk. Tiba-tiba, sebuah bintang misterius jatuh dari  langit dan menghantam katedral. Menyebabkan terbentuknya kawah yang dalam dimana Deckard Cain menghilang.",
+		"ukuran":"12 GB",
+		"harga":549000,
+		"stok":4
+		
+	},
+	{
+		"id":"A004",
+		"kategori":"Role-playing game",
+		"nama":"Mass Effect 3",
+		"deskripsi":"Mass Effect 3 bercerita tentang Commander Shepard yang berusaha menyatukan peradaban untuk merebut bumi dan mengusir The Reaper dari bumi. Terdapat berbagai aspek dalam permainan ini yang dapat dipengaruhi oleh tindakan yang diambil pada game sebelumnya. Pemain yang memiliki save file dari Mass Effect 2 dapat mengimport-nya ke Mass Effect 3 saat memulai permainan baru.",
+		"ukuran":"2.5 GB",
+		"harga":125000,
+		"stok":12
+		
+	},
+	{
+		"id":"A005",
+		"kategori":"Role-playing game",
+		"nama":"Dark Souls 2",
+		"deskripsi":"Dark Souls 2 adalah game RPG yang berkisah tentang seseorang yang dikutuk menjadi undead dan berusaha mencari penyembuhan atas kutukan tersebut. Pada awal permainan kamu harus membuat karakter yang akan kamu gunakan terlebih dahulu. Pemain dapat menentukan nama, jenis kelamin, class, bentuk tubuh, dan sebagainya. Terdapat banyak jenis senjata yang dapat digunakan misalnya pedang dan panah. Kamu bisa mendapatkan item dan equipment selama perjalanan atau membelinya melalui NPC. Selama perjalanan kamu dapat menemukan bonfire yang berfungsi sebagai checkpoint. Ada satu hal lagi, game ini terkenal akan kesulitannya yang luar biasa. Jadi, bagi yang belum pernah memainkan seri Dark Souls sebelumnya bersiaplah untuk stres.",
+		"ukuran":"8 GB",
+		"harga":275000,
+		"stok":10
+		
+	},
+	{
+		"id":"A006",
+		"kategori":"Role-playing game",
+		"nama":"Divinity Original Sins",
+		"deskripsi":"Dalam permainan ini, kamu akan berperan sebagai Source Hunter yang bertugas menyingkirkan energi misterius. Energi tersebut dikenal sebagai Source. Investigasi yang mereka lakukan, justru membawa mereka ke petualangan yang lebih besar dan berbahaya. Suatu takdir yang besar ada di tangan mereka.",
+		"ukuran":"10 GB",
+		"harga":286000,
+		"stok":14
+		
+	},
+	{
+		"id":"A007",
+		"kategori":"Role-playing game",
+		"nama":"Child of Light",
+		"deskripsi":"Permainan ini menceritakan tentang seorang putri bangsawan Austria bernama Aurora di tahun 1895. Pada suatu ketika, saat sedang tidur dia merasakan dingin yang terus menyebar dan akhirnya meninggal. Beberapa waktu kemudian, dia terbangun di dunia yang berbeda, yaitu dunia Lemuria. Di sana, ia bertemu dengan seekor kunang-kunang yang akan membantunya. Ia harus mengembalikan matahari, bulan, dan bintang ke dunia Lemuria supaya bisa pulang. Sama seperti Divinity Original Sins, permainan ini menggunakan sistem pertarungan turm-based.",
+		"ukuran":"3 GB",
+		"harga":170000,
+		"stok":8
+		
+	},
+	{
+		"id":"A008",
+		"kategori":"Role-playing game",
+		"nama":"Fallout 3",
+		"deskripsi":"Fallout 3 merupakan permainan bertemakan post-apocalyptic. Permainan ini berlatar di kota Washington D.C.. 200 tahun setelah terjadi perang nuklir antara Amerika Serikat, China, dan Uni Soviet.",
+		"ukuran":"12 GB",
+		"harga":129000,
+		"stok":5
+		
+	},
+	{
+		"id":"A009",
+		"kategori":"Role-playing game",
+		"nama":"Fallout: New Vegas",
+		"deskripsi":"Fallout: New Vegas mengambil latar di kota Las Vegas empat tahun setelah kejadian pada Fallout 3. Di sini, kamu berperan sebagai seorang kurir yang bermaksud mengirimkan sebuah paket. Tetapi, di tengah perjalanan, kamu ditembaki oleh sebuah kelompok misterius dan mengambil paket tersebut. Kemudian mayat dari karaktermu ditemukan oleh sebuah robot bernama Victor. Dia membawamu kepada dokter bernama Mitchell yang menyelamatkan nyawamu di Goodspring. Di sinilah kamu mulai bisa mengkustomisasi karaktermu.",
+		"ukuran":"10 GB",
+		"harga":135000,
+		"stok":10
+		
+	},
+	{
+		"id":"A010",
+		"kategori":"Role-playing game",
+		"nama":"The Elder Scrolls: Skyrim",
+		"deskripsi":"Inilah dia game RPG yang bisa dibilang legendaris. Hampir semua pecinta game RPG pernah memainkannya. Permainan ini menceritakan seorang tahanan yang akan dieksekusi. Tetapi, tepat sebelum terlaksana, seekor naga menyerang tempat berlangsungnya eksekusi. Ia memporak-porandakan desa dan menyebabkan tahanan kabur. Setelah kabur, karakter yang kita mainkan pergi menuju kota Whiterun untuk meminta bantuan. Disanalah terungkap bahwa tahanan tersebut adalah seorang Dragonborn.",
+		"ukuran":"10 GB",
+		"harga":370000,
+		"stok":6
+		
+	}
+	
+	]
+
+}
+
+{
+	"FPS":[
+	
+	{
+		"id":"B001",
+		"kategori":"First-person Shooter",
+		"nama":"Resident Evil 7",
+		"deskripsi":"Edisi ketujuh dari serial survival horror milik Capcom ini menghadirkan karakter baru bernama Ethan Winters sebagai protagonis utamanya. Diceritakan bahwa Ethan mengetahui bahwa istrinya, Mia, yang diduga tewas ternyata masih hidup di rumah milik keluarga Baker.",
+		"ukuran":"18 GB",
+		"harga":225000,
+		"stok":12
+		
+	},
+	{
+		"id":"B002",
+		"kategori":"First-person Shooter",
+		"nama":"Battlefield 1",
+		"deskripsi":"Battlefield 1 menawarkan lima karakter dengan latar belakang berbeda yang nantinya bisa kamu pilih untuk dimainkan. Kelima karakter tersebut memiliki jalan cerita yang semuanya akan saling berkaitan selama Perang Dunia I.",
+		"ukuran":"10 GB",
+		"harga":135000,
+		"stok":8
+		
+	},
+	{
+		"id":"B003",
+		"kategori":"First-person Shooter",
+		"nama":"Killing Floor 2",
+		"deskripsi":"Mode permainan game ini menggunakan sistem wave (gelombang) di mana setiap levelnya kamu akan menghadapi serbuan zombie yang brutal. Terdapat 10 gelombang dalam game Killing Floor 2 ini.",
+		"ukuran":"8 GB",
+		"harga":128000,
+		"stok":7
+		
+	},
+	{
+		"id":"B004",
+		"kategori":"First-person Shooter",
+		"nama":"Metro Exodus",
+		"deskripsi":"Miliaran orang tewas akibat perang nuklir dan manusia yang selamat hidup dalam lorong-lorong kereta api bawah tanah. Mereka harus berada di sana karena daerah permukaan telah terpapar radiasi.",
+		"ukuran":"19 GB",
+		"harga":320000,
+		"stok":12
+		
+	},
+	{
+		"id":"B005",
+		"kategori":"First-person Shooter",
+		"nama":"Titanfall 2",
+		"deskripsi":"Titanfall 2 membawa kamu untuk mengendalikan seorang prajurit Militia bernama Jake Cooper. Ketika bertempur dengan sebuah organisasi bernama IMC di Planet Typhon, ia kemudian menjadi pilot Titan BT-7274 yang merupakan milik dari mentornya, Kapten Lastimosa.",
+		"ukuran":"12 GB",
+		"harga":175000,
+		"stok":10
+		
+	},
+	{
+		"id":"B006",
+		"kategori":"First-person Shooter",
+		"nama":"Bioshock Infinite",
+		"deskripsi":"Dalam game ini, kamu akan berperan sebagai detektif swasta bernama Booker Dewiit. Seorang klien misterius lalu memintanya untuk menemukan gadis bernama Elizabeth dan membawanya pulang dengan selamat.",
+		"ukuran":"16 GB",
+		"harga":165000,
+		"stok":8
+		
+	},
+	{
+		"id":"B007",
+		"kategori":"First-person Shooter",
+		"nama":"Left 4 Dead 2",
+		"deskripsi":"Masih sama dengan seri pertamanya, Left 4 Dead 2 tetap menggunakan sistem tembak menembak first person shooter (FPS). Wabah zombie masih menjadi benang merah cerita utamanya. Kali ini, kamu bersama tiga orang lainnya harus bertahan hidup dan menyelamatkan diri dari serangan zombie. Tugasmu adalah pergi ke tempat evakuasi di New Orleans sebelum seluruh kota dipenuhi oleh makhluk tersebut.",
+		"ukuran":"8 GB",
+		"harga":20000,
+		"stok":10
+		
+	},
+	{
+		"id":"B008",
+		"kategori":"First-person Shooter",
+		"nama":"Dishonored 2",
+		"deskripsi":"Dishonored 2 menawarkan dua opsi karakter yang dapat kamu pilih, yakni Emily Kaldwin dan Corvo Attano. Cerita game ini melanjutkan kisah dari edisi pertamanya. Kini, Emily telah dewasa dan menjadi penguasa di Dunwall. Sementara ayahnya, Corvo, bertugas sebagai pelindung dan penasihat pribadinya. Namun, kejayaannya hanya sebentar ketika seorang penyihir bernama Delilah datang sebagai ancaman.",
+		"ukuran":"18 GB",
+		"harga":300000,
+		"stok":5
+		
+	},
+	{
+		"id":"B009",
+		"kategori":"First-person Shooter",
+		"nama":"Day of Infamy",
+		"deskripsi":"Untuk kamu yang menyukai game perang berlatar belakang Perang Dunia II, tidak ada salahnya mencoba game ini. Day of Infamy mengusung fitur multiplayer yang dapat kamu mainkan bersama player lainnya. Kamu akan diberikan 10 pilihan lokasi peperangan yang bisa kamu coba, di antaranya pertempuran di pesisir pantai, peperangan di kota yang porak poranda, atau tembak menembak di hutan rimba.",
+		"ukuran":"5 GB",
+		"harga":110000,
+		"stok":2
+		
+	},
+	{
+		"id":"B010",
+		"kategori":"First-person Shooter",
+		"nama":"Apex Legends",
+		"deskripsi":"Apex Legends adalah sebuah game battle royale yang menawarkan pertarungan sengit dan kompetitif. Game ini memberikan pilihan squad dengan berisikan 3 pemain. Dalam satu arena, akan ada 20 squad dengan 60 pemain di setiap pertempurannya. Untuk memenangkan pertandingan, kamu dapat memilih karakter seperti penyerang, defender, tracker atau medic yang bisa melengkapi kekuatan dalam tim.",
+		"ukuran":"20 GB",
+		"harga":718000,
+		"stok":5
+		
+	}
+	
+	]
+}
